@@ -1,4 +1,6 @@
 # QLab
-Lab work for quantum laboratory.
+Data analysis for quantum laboratory.
 
-Lab 1: Electron charge per mass ratio.
+Lab 1: Electron charge per mass.
+Lab 2: Atomic Spectroscopy
+Lab 3: Millikan Oil Drop
