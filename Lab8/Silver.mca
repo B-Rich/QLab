@@ -1,0 +1,312 @@
+<<PMCA SPECTRUM>>
+TAG - live_data
+DESCRIPTION - 
+GAIN - 0
+THRESHOLD - 0
+LIVE_MODE - 0
+PRESET_TIME - 0
+LIVE_TIME - 1023.369000
+REAL_TIME - 1024.000000
+START_TIME - 12/01/2016 09:27:23
+SERIAL_NUMBER - 0
+<<DATA>>
+289
+298
+279
+257
+264
+215
+191
+210
+191
+170
+151
+134
+141
+129
+124
+107
+122
+108
+89
+101
+89
+113
+91
+79
+78
+78
+63
+81
+73
+57
+81
+66
+83
+65
+65
+71
+49
+56
+62
+58
+50
+55
+44
+52
+48
+41
+48
+45
+38
+43
+47
+49
+39
+35
+37
+39
+35
+34
+33
+46
+37
+20
+32
+28
+33
+31
+31
+31
+32
+29
+25
+27
+34
+20
+27
+21
+31
+23
+28
+14
+29
+24
+30
+23
+18
+27
+25
+17
+18
+23
+22
+31
+21
+20
+11
+18
+24
+17
+30
+21
+17
+13
+18
+14
+11
+24
+13
+21
+18
+16
+19
+12
+15
+14
+13
+20
+20
+14
+12
+13
+12
+10
+11
+6
+5
+5
+8
+8
+16
+7
+11
+8
+8
+12
+10
+6
+9
+10
+8
+10
+11
+12
+5
+10
+9
+3
+7
+6
+6
+9
+7
+8
+11
+7
+8
+4
+6
+8
+7
+3
+4
+6
+6
+5
+7
+6
+4
+6
+7
+4
+3
+4
+4
+2
+2
+3
+3
+3
+2
+4
+4
+4
+7
+4
+1
+5
+5
+8
+2
+1
+4
+5
+1
+7
+4
+2
+4
+2
+2
+4
+4
+1
+2
+1
+2
+2
+2
+4
+2
+4
+0
+2
+5
+4
+3
+2
+4
+1
+1
+2
+2
+1
+6
+3
+1
+4
+0
+1
+3
+2
+2
+4
+3
+4
+2
+2
+2
+3
+2
+2
+2
+2
+1
+4
+0
+2
+1
+1
+0
+2
+1
+2
+3
+4
+1
+2
+<<END>>
+<<DP5 CONFIGURATION>>
+RESC=?;    Reset Configuration
+PURE=OFF;    PUR Interval On/Off
+MCAS=MCS;    MCA Source
+MCAC=256;    MCA/MCS Channels
+SOFF=OFF;    Set Spectrum Offset
+GAIA=2;    Analog Gain Index
+PDMD=NORM;    Peak Detect Mode (Min/Max)
+THSL=5.004;    Slow Threshold
+TLLD=OFF;    LLD Threshold
+GATE=OFF;    Gate Control
+AUO1=PEAKH;    AUX_OUT Selection
+PRET=??;    Preset Time
+PRER=OFF;    Preset Real Time
+PREL=OFF;    Preset Live Time
+PREC=OFF;    Preset Counts
+PRCL=0;    Preset Counts Low Threshold
+PRCH=1024;    Preset Counts High Threshold
+SCOE=FA;    Scope Trigger Edge
+SCOT=50;    Scope Trigger Position
+SCOG=1;    Digital Scope Gain
+MCSL=0;    MCS Low Threshold
+MCSH=256;    MCS High Threshold
+MCST=4.00;    MCS Timebase
+AUO2=ICR;    AUX_OUT2 Selection
+GPED=RI;    G.P. Counter Edge
+GPIN=AUX2;    G.P. Counter Input
+GPME=ON;    G.P. Counter Uses MCA_EN?
+GPGA=ON;    G.P. Counter Uses GATE?
+GPMC=ON;    G.P. Counter Cleared With MCA Counters?
+MCAE=OFF;    MCA/MCS Enable
+PDMD=NORM;
+<<DP5 CONFIGURATION END>>
+<<DPP STATUS>>
+Device Type: MCA8000D
+Serial Number: 392
+Firmware: 6.08  Build:  0
+FPGA: 1.06
+Slow Count: 256
+Real Time: 1024.000000
+Live Time: 1023.369000
+Board Temp: 38°C
+<<DPP STATUS END>>
