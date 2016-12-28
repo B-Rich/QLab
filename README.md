@@ -3,7 +3,7 @@ Data analysis for quantum laboratory.
 
 Lab 1: Electron Charge per Mass.
 
-Lab 2: Atomic Spectroscopy
+Lab 2: Atomic Spectra
 
 Lab 3: Millikan Oil Drop
 
