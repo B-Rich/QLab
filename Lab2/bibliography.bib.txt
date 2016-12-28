@@ -1,1 +1,0 @@
-@book{melissinos_1966, place={New York}, title={Experiments in modern physics}, publisher={Academic Press}, author={Melissinos, Adrian C.}, year={1966}}
