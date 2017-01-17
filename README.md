@@ -16,3 +16,5 @@ Lab 6: Scintillation Counting
 Lab 7: Absorption of Gamma Rays
 
 Lab 8: Radioactive Decay
+
+Lab 9: Zeeman Effect
