@@ -57,7 +57,13 @@ del=sum(w*sum(w.*(x.^2)))-(sum(w.*x))^2;
 A=(sum(w.*(x.^2))*sum(w.*E)-sum(w.*x)*sum(w.*x.*E))/del;
 B=(sum(w)*sum(w.*x.*E)-sum(w.*x)*sum(w.*E))/del;
 Fit=A+B*x;
+
+sig_A=sqrt(sum(w.*(x.^2))/del);
+sig_B=sqrt(sum(w)/del);
 plot(x,Fit);
+hold on 
+text(0.18,12, ['Slope = 130 +/- 8 \mueV/T'])
+text(0.18,11, ['Intercept = -6.5 +/- 1.5 \mueV'])
 %What are the uncertainties in A and B?
 %These are given by formulas quoted in problem 8.19
 sig_A=sqrt(sum(w.*(x.^2))/del);
